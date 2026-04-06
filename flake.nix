@@ -75,6 +75,7 @@
             packages = with python.pkgs; [
               venvShellHook
               pip
+              openai
               python-lsp-server
 
               chromadb # AI-native open-source embedding database

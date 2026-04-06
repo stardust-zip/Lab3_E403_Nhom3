@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Tim dien thoai theo gia",
+    "query": "Tim giup toi dien thoai Samsung duoi 3 trieu",
+    "chatbot": "Chào bạn, hiện tại chúng tôi có các mẫu điện thoại Samsung dưới 3 triệu như Galaxy A03, Galaxy A02. Bạn muốn xem thêm về model nào?",
+    "agent_v1": "Sản phẩm Samsung Galaxy A05 có giá 2,490,000 VND, còn 15 chiếc trong kho.",
+    "agent_v2": "Điện thoại Samsung dưới 3 triệu là Samsung Galaxy A05 với giá 2.490.000 đồng."
+  },
+  {
+    "id": 2,
+    "name": "Hỏi thông tin điện thoại",
+    "query": "Điện thoại iPhone của hãng nào?",
+    "chatbot": "Điện thoại iPhone là của hãng Apple.",
+    "agent_v1": "Điện thoại iPhone là sản phẩm của hãng Apple.",
+    "agent_v2": "Điện thoại iPhone là sản phẩm của hãng Apple."
+  },
+  {
+    "id": 3,
+    "name": "Hỏi các hãng điện thoại",
+    "query": "Liệt kê 3 hãng điện thoại phổ biến ở Việt Nam",
+    "chatbot": "Ba hãng điện thoại phổ biến ở Việt Nam là Apple, Samsung và Xiaomi.",
+    "agent_v1": "Ba hãng điện thoại phổ biến ở cửa hàng là Apple, Samsung và OPPO.",
+    "agent_v2": "Ba hãng điện thoại phổ biến ở Việt Nam mà cửa hàng có là Apple, Samsung và OPPO."
+  },
+  {
+    "id": 4,
+    "name": "Mua combo + ap dung ma KM cu the",
+    "query": "Toi muon mua dien thoai iPhone 17 Pro + op lung + kinh cuong luc, neu ap dung khuyen mai HSSV2026 thi het bao nhieu tien?",
+    "chatbot": "Xin lỗi, hiện tại chúng tôi chưa có thông tin về iPhone 17 Pro. Quý khách có thể xem các mẫu iPhone hiện tại hoặc liên hệ trực tiếp để được hỗ trợ.",
+    "agent_v1": "Sau khi áp dụng khuyến mãi HSSV2026 giảm 20%, tổng số tiền bạn cần thanh toán là 26.632.000 VND.",
+    "agent_v2": "iPhone 17 Pro (32.990.000d) + Op lung (350.000d) + Kinh cuong luc (150.000d) = 33.490.000d. Ap dung ma HSSV2026 giam 5%, thanh toan: 31.815.500d."
+  },
+  {
+    "id": 5,
+    "name": "Out-of-domain: hoi mua laptop",
+    "query": "Cua hang co nhan thu mua laptop khong?",
+    "chatbot": "Xin lỗi, hiện tại cửa hàng không nhận thu mua laptop.",
+    "agent_v1": "Cửa hàng chỉ hỗ trợ về điện thoại và phụ kiện, không nhận thu mua laptop.",
+    "agent_v2": "Xin loi, cửa hàng chúng tôi hiện chỉ kinh doanh điện thoại và phụ kiện điện thoại. Chúng tôi không nhận thu mua laptop."
+  }
+]
