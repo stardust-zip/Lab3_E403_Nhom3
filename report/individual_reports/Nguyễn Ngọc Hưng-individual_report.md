@@ -1,7 +1,7 @@
 # Individual Report: Lab 3 - Advanced ReAct Agent Development for Phone Shop Assistant
 
-- **Student Name**: [Your Name Here]
-- **Student ID**: [Your ID Here]
+- **Student Name**: Nguyễn Ngọc Hưng
+- **Student ID**: 2A202600188
 - **Date**: April 6, 2026
 
 ---
